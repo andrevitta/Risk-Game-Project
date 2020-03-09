@@ -46,7 +46,7 @@ Code is based on two classes, a board and display tools
   
 # Running the game
 
-Execute file Run_GameV4.py  and follow the instructions. This is a Lord of the Rings theme Risk.
+Execute file **Run_GameV4.py**  and follow the instructions. This is a Lord of the Rings theme Risk.
 
 # Game Dynamic
 
@@ -67,11 +67,11 @@ When attacking it will attack until is no longer possible
   
   * No action and passing turn
 
-As this game go on until the end!
+     As this game go on until the end!
 
 * Game finish
 
-Game will finish when there is only on player
+     Game will finish when there is only on player
 
 
 

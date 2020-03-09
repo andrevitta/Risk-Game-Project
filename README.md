@@ -44,17 +44,32 @@ Risk was invented in 1957 by Albert Lamorisse, a French filmmaker, and went on t
   
 # Running the game
 
-Execute file   and follow the instructions.
+Execute file   and follow the instructions. This is a Lord of the Rings theme Risk.
 
-  # Game Dinamic
+# Game Dynamic
 
 * Setting the Game round
 
+At First, countries are distributed for all players them playing order is set so each player start to place first round armies.
+
 * Rounds
 
-  * Attacking
+Map will be display in at the begining of eqch player turn at each round
 
+At the begining of each round , all player receive an amont of armies based on the amonut of countries they have. In the playing order them place their armies and the turn go back to the first player, so he can decid what to do.
+
+  * Attacking
+When attacking it will attack until is no longer possible
+
+  * Moving Armies
+  
+  * No action and passing turn
+
+As this game go on until the end!
 
 * Game finish
- Game will finish when there is only on player
-* Map will be display in at the begining 
+
+Game will finish when there is only on player
+
+
+

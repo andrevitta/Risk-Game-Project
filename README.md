@@ -46,7 +46,7 @@ Code is based on two classes, a board and display tools
   
 # Running the game
 
-Execute file   and follow the instructions. This is a Lord of the Rings theme Risk.
+Execute file Run_GameV4.py  and follow the instructions. This is a Lord of the Rings theme Risk.
 
 # Game Dynamic
 

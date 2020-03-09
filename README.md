@@ -61,17 +61,16 @@ Map will be display in at the begining of eqch player turn at each round
 At the begining of each round , all player receive an amont of armies based on the amonut of countries they have. In the playing order them place their armies and the turn go back to the first player, so he can decid what to do.
 
   * Attacking
-When attacking it will attack until is no longer possible
+  
+  When attacking it will attack until is no longer possible
 
   * Moving Armies
   
   * No action and passing turn
 
-     As this game go on until the end!
+  * Game finish
 
-* Game finish
-
-     Game will finish when there is only on player
+  Game will finish when there is only on player
 
 
 

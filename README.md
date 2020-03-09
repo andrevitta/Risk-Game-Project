@@ -27,10 +27,12 @@ Risk was invented in 1957 by Albert Lamorisse, a French filmmaker, and went on t
 
 # Process
 
-* Map main process 
-* Simplify game
-* Figure it out the code solution
-* Code is based on two classes, a board and display tools
+* Map all game steps 
+* Simplify game as possible
+* Figure it out the code solution for each step
+
+# Solution
+Code is based on two classes, a board and display tools
 
   * Class use
 
